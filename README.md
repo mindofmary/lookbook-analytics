@@ -9,3 +9,6 @@ Análise visual de um lookbook de uma marca (para já, apenas Jacquemus) para de
 - níveis de camadas
 - temas
 - texturas
+
+# Futuramente
+Incluir lookbooks da Chanel e Alexander Mcqueen
